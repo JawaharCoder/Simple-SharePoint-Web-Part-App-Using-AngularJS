@@ -9,3 +9,6 @@ Execute the following commands.
 - `$ tsd install`
 - `$ gulp serve`
 - Now It Will Execute On Your Browser.
+
+![Alt text](/SCREENSHOT/demo1.PNG?raw=true "SharePoint Web Part Output")
+![Alt text](/SCREENSHOT/demo2.PNG?raw=true "SharePoint Web Part Output")

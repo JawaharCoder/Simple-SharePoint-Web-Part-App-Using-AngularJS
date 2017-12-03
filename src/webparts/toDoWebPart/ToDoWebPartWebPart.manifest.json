@@ -13,8 +13,8 @@
     "description": { "default": "Simple management of to do tasks" },
     "officeFabricIconFontName": "CheckMark",
     "properties": {
-      "sharePointApi": "https://randcome.sharepoint.com/sites/Jawahar/_api/",
-      "todoListName": "templist",
+      "sharePointApi": "",
+      "todoListName": "",
       "hideFinishedTasks": false
     }
   }]

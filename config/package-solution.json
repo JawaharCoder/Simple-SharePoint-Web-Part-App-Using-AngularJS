@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-angular-ts-todo-client-side-solution",
+    "id": "c9582e9e-1008-4000-78ca-e870dad4c140",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "TODO.spapp"
+  }
+}

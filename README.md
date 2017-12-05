@@ -10,5 +10,5 @@ Execute the following commands.
 - `$ gulp serve`
 - Now It Will Execute On Your Browser.
 
-![Alt text](/SCREENSHOT/demo1.PNG?raw=true "SharePoint Web Part Output")
-![Alt text](/SCREENSHOT/demo2.PNG?raw=true "SharePoint Web Part Output")
+![Share Point Web Part Demo](/SCREENSHOT/demo1.PNG?raw=true "SharePoint Web Part Output")
+![Share Point Web Part Demo](/SCREENSHOT/demo2.PNG?raw=true "SharePoint Web Part Output")
